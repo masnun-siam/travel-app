@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Lorem ipsum",
+    "detail": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+    "shortDetail": "Lorem ipsum dolor sit amet",
+    "image": "h1.jpg",
+    "price": "180 $",
+    "address": "Consectetur, adipiscing elita",
+    "rating" : 4.5
+  },
+  {
+    "name": "Ipsum",
+    "detail": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+    "shortDetail": "Lorem ipsum dolor sit amet",
+    "image": "h2.jpg",
+    "price": "200 $",
+    "address": "Consectetur, adipiscing elita",
+    "rating" : 3.0
+  },
+  {
+    "name": "Lorem",
+    "detail": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+    "shortDetail": "Lorem ipsum dolor sit amet",
+    "image": "h3.jpg",
+    "price": "150 $",
+    "address":"Consectetur, adipiscing elita",
+    "rating" : 5.0
+  }
+
+]

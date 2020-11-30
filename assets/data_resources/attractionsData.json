@@ -1,0 +1,108 @@
+[
+  {
+    "category": "Nature",
+    "attractions": [
+      {
+        "name": "Lorem",
+        "detail": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+        "shortDetail": "Lorem ipsum dolor sit amet",
+        "image": "img004.jpg",
+        "country": "Sri Lanka"
+      },
+      {
+        "name": "Lorem",
+        "detail": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+        "shortDetail": "Lorem ipsum dolor sit amet",
+        "image": "img018.jpg",
+        "country": "Sri Lanka"
+      },
+      {
+        "name": "Ipsum",
+        "detail": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+        "shortDetail": "Lorem ipsum dolor sit amet",
+        "image": "img002.jpg",
+        "country": "Sri Lanka"
+      },
+      {
+        "name": "Ipsum",
+        "detail": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+        "shortDetail": "Lorem ipsum dolor sit amet",
+        "image": "img012.jpg",
+        "country": "Sri Lanka"
+      }
+    ]
+  },
+  {
+    "category": "History",
+    "attractions": [
+      {
+        "name": "Lorem",
+        "detail": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+        "shortDetail": "Lorem ipsum dolor sit amet",
+        "image": "img016.jpg",
+        "country": "Sri Lanka"
+      },
+      {
+        "name": "Ipsum",
+        "detail": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+        "shortDetail": "Lorem ipsum dolor sit amet",
+        "image": "img008.jpg",
+        "country": "Sri Lanka"
+      },
+      {
+        "name": "Lorem",
+        "detail": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+        "shortDetail": "Lorem ipsum dolor sit amet",
+        "image": "img014.jpg",
+        "country": "Sri Lanka"
+      },
+      {
+        "name": "Ipsum",
+        "detail": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+        "shortDetail": "Lorem ipsum dolor sit amet",
+        "image": "img015.jpg",
+        "country": "Sri Lanka"
+      },
+      {
+        "name": "Ipsum",
+        "detail": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+        "shortDetail": "Lorem ipsum dolor sit amet",
+        "image": "img007.jpg",
+        "country": "Sri Lanka"
+      }
+    ]
+  },
+  {
+    "category": "Religious",
+    "attractions": [
+      {
+        "name": "Lorem",
+        "detail": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+        "shortDetail": "Lorem ipsum dolor sit amet",
+        "image": "img009.jpg",
+        "country": "Sri Lanka"
+      },
+      {
+        "name": "Ipsum",
+        "detail": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+        "shortDetail": "Lorem ipsum dolor sit amet",
+        "image": "img011.jpg",
+        "country": "Sri Lanka"
+      },
+      {
+        "name": "Lorem",
+        "detail": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+        "shortDetail": "Lorem ipsum dolor sit amet",
+        "image": "img017.jpg",
+        "country": "Sri Lanka"
+      },
+      {
+        "name": "Ipsum",
+        "detail": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+        "shortDetail": "Lorem ipsum dolor sit amet",
+        "image": "img010.jpg",
+        "country": "Sri Lanka"
+      }
+    ]
+  }
+]

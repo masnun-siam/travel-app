@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Chandler",
+    "image": "chandler.jpg"
+  },
+  {
+    "name": "Monica",
+    "image": "monica.jpg"
+  },
+  {
+    "name": "Joey",
+    "image": "joey.jpg"
+  },
+  {
+    "name": "Phoebe",
+    "image": "phoebe.jpg"
+  },
+  {
+    "name": "Ross",
+    "image": "ross.jpg"
+  }
+
+]
